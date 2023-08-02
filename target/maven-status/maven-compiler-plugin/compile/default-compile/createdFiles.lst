@@ -1,8 +1,0 @@
-br\com\cxpbrasil\todoapi\service\TodoService.class
-br\com\cxpbrasil\todoapi\TodoapiApplication.class
-br\com\cxpbrasil\todoapi\web\response\TodoResponse.class
-br\com\cxpbrasil\todoapi\repository\TodoRepository.class
-br\com\cxpbrasil\todoapi\web\request\CreateTodoRequest.class
-br\com\cxpbrasil\todoapi\web\TodoController.class
-br\com\cxpbrasil\todoapi\repository\entity\TodoEntity.class
-br\com\cxpbrasil\todoapi\repository\entity\TodoEntity$TodoEntityBuilder.class
